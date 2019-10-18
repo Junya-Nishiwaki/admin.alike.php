@@ -1,0 +1,16 @@
+.menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.menu li{
+    display: inline;
+    float: left;
+    text-decoration: none;
+    margin: 0px 15px 0px 0px;
+    text-align: left;
+    font-size: 14px;
+}
+.menu li a {
+    display: block;
+}
